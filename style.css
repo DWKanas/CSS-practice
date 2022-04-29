@@ -1,0 +1,38 @@
+#redtext {
+  color: red;
+}
+#bluetext {
+  color: blue;
+}
+#greentext {
+  color: green;
+}
+#centerheader {
+  text-align: center;
+}
+#centerp {
+  text-align: center;
+}
+#textbig {
+  font-size: 35px;
+}
+#texttiny {
+  font-size: 12px;
+}
+#boldtext {
+  font-weight: bold;
+}
+#newfont {
+  font-family: Helvetica;
+}
+#bigorangebold {
+  font-size: 35px;
+  color: orange;
+  font-weight: bold;
+}
+p.stylenew {
+  color: purple;
+}
+#styledImage {
+  border: 4px dotted blue;
+}
